@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/factoryMethodCollections/factoryMethodCollections.iml" filepath="$PROJECT_DIR$/factoryMethodCollections/factoryMethodCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-2/http-2.iml" filepath="$PROJECT_DIR$/http-2/http-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inferenceTypesInAnonClass/inferenceTypesInAnonClass.iml" filepath="$PROJECT_DIR$/inferenceTypesInAnonClass/inferenceTypesInAnonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jShell/jShell.iml" filepath="$PROJECT_DIR$/jShell/jShell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-9-new-features.iml" filepath="$PROJECT_DIR$/java-9-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jigsawProject/jigsawProject.iml" filepath="$PROJECT_DIR$/jigsawProject/jigsawProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jigsawProject2/jigsawProject2.iml" filepath="$PROJECT_DIR$/jigsawProject2/jigsawProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/privateMethodInterface/privateMethodInterface.iml" filepath="$PROJECT_DIR$/privateMethodInterface/privateMethodInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamAPI/streamAPI.iml" filepath="$PROJECT_DIR$/streamAPI/streamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tryCatchWithResouces/tryCatchWithResouces.iml" filepath="$PROJECT_DIR$/tryCatchWithResouces/tryCatchWithResouces.iml" />
+    </modules>
+  </component>
+</project>

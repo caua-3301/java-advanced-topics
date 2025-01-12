@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/compactNumberFormat/compactNumberFormat.iml" filepath="$PROJECT_DIR$/compactNumberFormat/compactNumberFormat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-12-new-resources.iml" filepath="$PROJECT_DIR$/java-12-new-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mismatchClassFile/mismatchClassFile.iml" filepath="$PROJECT_DIR$/mismatchClassFile/mismatchClassFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newMethodInStringClass/newMethodInStringClass.iml" filepath="$PROJECT_DIR$/newMethodInStringClass/newMethodInStringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchExpressions/switchExpressions.iml" filepath="$PROJECT_DIR$/switchExpressions/switchExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teeingCollector/teeingCollector.iml" filepath="$PROJECT_DIR$/teeingCollector/teeingCollector.iml" />
+    </modules>
+  </component>
+</project>

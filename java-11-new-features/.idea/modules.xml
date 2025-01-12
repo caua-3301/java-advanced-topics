@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-11-new-features.iml" filepath="$PROJECT_DIR$/java-11-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newMethodsInStringClass/newMethodsInStringClass.iml" filepath="$PROJECT_DIR$/newMethodsInStringClass/newMethodsInStringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readFiles/readFiles.iml" filepath="$PROJECT_DIR$/readFiles/readFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/varInLambdaExpressions/varInLambdaExpressions.iml" filepath="$PROJECT_DIR$/varInLambdaExpressions/varInLambdaExpressions.iml" />
+    </modules>
+  </component>
+</project>

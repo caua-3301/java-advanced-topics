@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/annotations/annotations.iml" filepath="$PROJECT_DIR$/java-8-new-features/annotations/annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/base64/base64.iml" filepath="$PROJECT_DIR$/java-8-new-features/base64/base64.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/functionalInterfaces/functionalInterfaces.iml" filepath="$PROJECT_DIR$/java-8-new-features/functionalInterfaces/functionalInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-advanced-topics.iml" filepath="$PROJECT_DIR$/.idea/java-advanced-topics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/javascriptNashorn/javascriptNashorn.iml" filepath="$PROJECT_DIR$/java-8-new-features/javascriptNashorn/javascriptNashorn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/lambda/lambda.iml" filepath="$PROJECT_DIR$/java-8-new-features/lambda/lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/methodReference/methodReference.iml" filepath="$PROJECT_DIR$/java-8-new-features/methodReference/methodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/optionalClass/optionalClass.iml" filepath="$PROJECT_DIR$/java-8-new-features/optionalClass/optionalClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/parallelArraySorting/parallelArraySorting.iml" filepath="$PROJECT_DIR$/java-8-new-features/parallelArraySorting/parallelArraySorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/reflect/reflect.iml" filepath="$PROJECT_DIR$/java-8-new-features/reflect/reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/streamAPI/streamAPI.iml" filepath="$PROJECT_DIR$/java-8-new-features/streamAPI/streamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/stringJoiner/stringJoiner.iml" filepath="$PROJECT_DIR$/java-8-new-features/stringJoiner/stringJoiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-new-features/typeInference/typeInference.iml" filepath="$PROJECT_DIR$/java-8-new-features/typeInference/typeInference.iml" />
+    </modules>
+  </component>
+</project>

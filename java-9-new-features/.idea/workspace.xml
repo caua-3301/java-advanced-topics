@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efb30dd1-f951-4d1e-a86f-4921d255daff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodCollections/factoryMethodCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factoryMethodCollections/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http-2/http-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http-2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inferenceTypesInAnonClass/inferenceTypesInAnonClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inferenceTypesInAnonClass/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jShell/jShell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jShell/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-9-new-features.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jigsawProject/jigsawProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jigsawProject/src/bye/Bye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jigsawProject/src/hello/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jigsawProject/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jigsawProject2/jigsawProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jigsawProject2/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jigsawProject2/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privateMethodInterface/privateMethodInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privateMethodInterface/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamAPI/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streamAPI/streamAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryCatchWithResouces/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryCatchWithResouces/tryCatchWithResouces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-new-features/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-8-new-features/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-new-features/lambda/lambda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-8-new-features/lambda/lambda.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rUsoVX9I7LE0kFYgBSpG1RByXU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/Desktop/GitHub/java-advanced-topics/java-9-new-features/http-2/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello" />
+      <recent name="bye" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efb30dd1-f951-4d1e-a86f-4921d255daff" name="Changes" comment="" />
+      <created>1736625183906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736625183906</updated>
+      <workItem from="1736625185118" duration="1394000" />
+      <workItem from="1736628574127" duration="2397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
