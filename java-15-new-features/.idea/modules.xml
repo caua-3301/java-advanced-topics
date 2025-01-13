@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-15-new-features.iml" filepath="$PROJECT_DIR$/java-15-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/records/records.iml" filepath="$PROJECT_DIR$/records/records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sealedClasses/sealedClasses.iml" filepath="$PROJECT_DIR$/sealedClasses/sealedClasses.iml" />
+    </modules>
+  </component>
+</project>
