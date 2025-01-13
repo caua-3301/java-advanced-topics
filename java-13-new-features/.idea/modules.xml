@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZGarbageCollector/ZGarbageCollector.iml" filepath="$PROJECT_DIR$/ZGarbageCollector/ZGarbageCollector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-13-new-features.iml" filepath="$PROJECT_DIR$/java-13-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketAPI/socketAPI.iml" filepath="$PROJECT_DIR$/socketAPI/socketAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchExpressionsUpdates/switchExpressionsUpdates.iml" filepath="$PROJECT_DIR$/switchExpressionsUpdates/switchExpressionsUpdates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textsBlocks/textsBlocks.iml" filepath="$PROJECT_DIR$/textsBlocks/textsBlocks.iml" />
+    </modules>
+  </component>
+</project>
