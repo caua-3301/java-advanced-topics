@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/instanceOf/instanceOf.iml" filepath="$PROJECT_DIR$/instanceOf/instanceOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-14-new-features.iml" filepath="$PROJECT_DIR$/java-14-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nullPointersExceptionsUpdate/nullPointersExceptionsUpdate.iml" filepath="$PROJECT_DIR$/nullPointersExceptionsUpdate/nullPointersExceptionsUpdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/records/records.iml" filepath="$PROJECT_DIR$/records/records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textsBlock/textsBlock.iml" filepath="$PROJECT_DIR$/textsBlock/textsBlock.iml" />
+    </modules>
+  </component>
+</project>
