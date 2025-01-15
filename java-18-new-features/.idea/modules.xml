@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SPI/SPI.iml" filepath="$PROJECT_DIR$/SPI/SPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeSnippets/codeSnippets.iml" filepath="$PROJECT_DIR$/codeSnippets/codeSnippets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-18-new-features.iml" filepath="$PROJECT_DIR$/java-18-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleWebServer/simpleWebServer.iml" filepath="$PROJECT_DIR$/simpleWebServer/simpleWebServer.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="packingTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/packingTool_jar</output-path>
+    <root id="archive" name="packingTool.jar">
+      <element id="module-output" name="packingTool" />
+    </root>
+  </artifact>
+</component>

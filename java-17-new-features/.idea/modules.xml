@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FFM/FFM.iml" filepath="$PROJECT_DIR$/FFM/FFM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-17-new-features.iml" filepath="$PROJECT_DIR$/java-17-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updateNullPointerException/updateNullPointerException.iml" filepath="$PROJECT_DIR$/updateNullPointerException/updateNullPointerException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updateSwitchExpression/updateSwitchExpression.iml" filepath="$PROJECT_DIR$/updateSwitchExpression/updateSwitchExpression.iml" />
+    </modules>
+  </component>
+</project>

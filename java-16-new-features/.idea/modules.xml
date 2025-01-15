@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/classValueBasead/classValueBasead.iml" filepath="$PROJECT_DIR$/classValueBasead/classValueBasead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-16-new-features.iml" filepath="$PROJECT_DIR$/java-16-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packingTool/packingTool.iml" filepath="$PROJECT_DIR$/packingTool/packingTool.iml" />
+    </modules>
+  </component>
+</project>
